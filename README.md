@@ -32,3 +32,4 @@ I am a Data Analyst and Data Engineer in training based in Nairobi, Kenya. I bui
 
 * **DEV Community:** [@ms_njenga](https://dev.to)
 * **GitHub:** [github.com/Faith03-hub](https://github.com/Faith03-hub)
+* **LinkedIn:** [www.linkedin.com/in/faith-njenga-838b27267]
